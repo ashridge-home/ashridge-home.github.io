@@ -1,9 +1,9 @@
 {
- "id": "household-dashboard-v2",
+ "id": "/",
  "name": "Household Dashboard",
  "short_name": "Household",
- "start_url": "/household-dashboard/",
- "scope": "/household-dashboard/",
+ "start_url": "/",
+ "scope": "/",
  "display": "standalone",
  "background_color": "#081428",
  "theme_color": "#081428",
